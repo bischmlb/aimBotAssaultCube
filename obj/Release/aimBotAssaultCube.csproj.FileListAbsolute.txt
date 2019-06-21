@@ -1,0 +1,10 @@
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\bin\Release\aimBotAssaultCube.exe.config
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\bin\Release\aimBotAssaultCube.exe
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\bin\Release\aimBotAssaultCube.pdb
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\aimBotAssaultCube.csprojAssemblyReference.cache
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\aimBotAssaultCube.Properties.Resources.resources
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\aimBotAssaultCube.csproj.GenerateResource.cache
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\aimBotAssaultCube.csproj.CoreCompileInputs.cache
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\aimBotAssaultCube.exe
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\aimBotAssaultCube.pdb
+C:\Users\bisch\source\repos\aimBotAssaultCube\aimBotAssaultCube\obj\Release\bischExe.bischExe.resources
